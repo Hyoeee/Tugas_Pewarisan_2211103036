@@ -1,4 +1,4 @@
-class iPhone implements Phone {
+class Iphone implements Phone {
     private int volume = 0;
     public void powerOn() {
         System.out.println("iPhone menyala");
