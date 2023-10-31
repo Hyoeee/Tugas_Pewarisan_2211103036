@@ -22,7 +22,7 @@ public class Main {
                 phone = new Xiaomi();
                 break;
             case 2:
-                phone = new iPhone();
+                phone = new Iphone();
                 break;
             case 3:
                 phone = new Samsung();
